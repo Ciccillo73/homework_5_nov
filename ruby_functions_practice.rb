@@ -29,7 +29,7 @@ end
 
 def add_string_as_number(string_1,string_2)
  return "string_1".to_i() + "string_2".to_i()
-end
+ end
 #
 # def number_to_full_name_month_1(m)
 #   require 'date'
