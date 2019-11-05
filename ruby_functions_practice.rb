@@ -18,13 +18,13 @@ def divide(a,b)
   return a/b
 end
 
-def length_of_string(my_string)
-  return my_string.length
+def length_of_string(string)
+  return string.length
 end
-#
-# def join_string(string_1,string_2)
-#   joined_string = string_1 + string_2
-#   return
+
+def join_string(string_1,string_2)
+  joined_string = string_1 + string_2
+return
 # end
 #
 # def add_string_as_number(string_1,string_2)
