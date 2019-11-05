@@ -13,10 +13,10 @@ end
 def multiply(a,b)
    return a * b
 end
-#
-# def divide(a,b)
-#   return a/b
-# end
+
+def divide(a,b)
+  return a/b
+end
 #
 # def length_of_string(my_string)
 #   return my_string.length
